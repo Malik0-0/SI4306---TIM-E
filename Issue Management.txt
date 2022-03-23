@@ -1,4 +1,4 @@
-Malik membuat logout dan dashboard
+Malik membuat logout dan dashboard (Selesai)
 Valen membuat landing page
 Virda membuat fitur registrasi
 Malik membuat logout dan dashboard
