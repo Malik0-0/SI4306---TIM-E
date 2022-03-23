@@ -2,6 +2,6 @@ Malik membuat logout dan dashboard (Selesai)
 Valen membuat landing page
 Virda membuat fitur registrasi
 Malik membuat logout dan dashboard
-Dira membuat login
+Dira membuat login (selesai)
 arvin membuat profil (selesai)
 Wiridho membuat detail pemesanan
