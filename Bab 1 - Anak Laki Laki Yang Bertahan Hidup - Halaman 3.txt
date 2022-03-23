@@ -5,6 +5,7 @@ Arvin
 Amel
 Valen
 
+<<<<<<< HEAD
 paragraf 7 dan 8
 
 “Para ahli tidak dapat menjelaskan kenapa para burung hantu mengubah pola tidur
@@ -13,3 +14,11 @@ Jim McGuffin yang akan menyampaikan ramalan cuaca. Malam ini akan hujan burung h
 lagi, Jim?"
 “Wah, Ted," kata si peramal cuaca, "aku tak tahu tentang itu, tetapi bukan cuma burung
 hantu yang bersikap aneh hari ini.
+=======
+Paragraf 1 & 2 Malik
+Sulit baginya untuk berkonsentrasi pada bor sore itu, dan ketika meninggalkan
+kantornya pada pukul lima sore, dia masih cemas sehingga menabrak orang di depan pintu.
+"Maaf," gumamnya, ketika laki-laki tua yang ditabraknya terhuyung nyaris jatuh. Sesaat
+kemudian baru Mr Dursley menyadari, laki-laki itu memakai jubah ungu. Dia kelihaiannya
+sama sekali tidak marah ditabrak sampai hampir jatuh.
+>>>>>>> 0da8e200cc507efc2c19d496423ad18c4820c3e6

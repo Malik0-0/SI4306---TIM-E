@@ -1,0 +1,2 @@
+Malik membuat logout dan dashboard
+Valen membuat landing page
