@@ -1,1 +1,1 @@
-Malik membuat logout dan dashboard
+Virda membuat fitur registrasi
