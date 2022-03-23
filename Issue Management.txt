@@ -5,3 +5,4 @@ Virda membuat fitur registrasi
 Malik membuat logout dan dashboard
 Dira membuat login
 arvin membuat profil
+Wiridho membuat detail pemesanan
